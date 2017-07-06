@@ -1,0 +1,2 @@
+# Oddish
+Seed project
